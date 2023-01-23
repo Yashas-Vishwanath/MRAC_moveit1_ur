@@ -47,7 +47,7 @@ start_srv_req.rgbd_params.depth_trunc = 0.15
 start_srv_req.rgbd_params.convert_rgb_to_intensity = False
 
 stop_srv_req = StopReconstructionRequest()
-stop_srv_req.mesh_filepath = '/home/v/test.ply'
+stop_srv_req.mesh_filepath = '/home/yashas/test.ply'
 
 # define speed and acceleration
 
